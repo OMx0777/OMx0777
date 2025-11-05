@@ -3,7 +3,12 @@
 - I’m currently learning AI/ML...
 - I’m looking for help with Ardiuno,Raspberry pi & ESP32...
 - Mail to: Om.Sathe23@iccs.ac.in
-- Checkout : [Portfolio](https://omsathe.netlify.app/) 
+
+ ## Portfolio :
+- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-blueviolet?style=for-the-badge&logo=About.me&logoColor=white)](https://omsathe.netlify.app/)
+
+  ## check my project videos here:
+-  [![YouTube](https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@OmSathe-0777)
 
 ## Skills:
 
