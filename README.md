@@ -52,6 +52,10 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
 
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/OMx0777/OMx0777/output/snake.svg" alt="Snake animation" />
+
 ## Connect with me:
 
 <p align = "center">
