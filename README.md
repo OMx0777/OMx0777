@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000b14,002147,005f73&height=200&section=header&text=OM%20SATHE&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Engineer%20Intern&descAlignY=55&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,6&height=200&section=header&text=OM%20SATHE&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI/ML%20Engineer%20Intern&descAlignY=55&descSize=20"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=AI/ML+Engineer+Intern+@+BluOrigin;Full-Stack+Developer;Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=AI/ML+Engineer+Intern+@+BluOrigin;Full-Stack+Developer;Creative+Web+Developer" alt="Typing SVG" />
 </div>
 
 <br/>
